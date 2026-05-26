@@ -1,0 +1,14 @@
+C:\Users\User\Downloads\TalkingPete_refactored\TalkingPete\bin\Debug\net8.0-windows\TalkingPete.exe
+C:\Users\User\Downloads\TalkingPete_refactored\TalkingPete\bin\Debug\net8.0-windows\TalkingPete.deps.json
+C:\Users\User\Downloads\TalkingPete_refactored\TalkingPete\bin\Debug\net8.0-windows\TalkingPete.runtimeconfig.json
+C:\Users\User\Downloads\TalkingPete_refactored\TalkingPete\bin\Debug\net8.0-windows\TalkingPete.dll
+C:\Users\User\Downloads\TalkingPete_refactored\TalkingPete\bin\Debug\net8.0-windows\TalkingPete.pdb
+C:\Users\User\Downloads\TalkingPete_refactored\TalkingPete\obj\Debug\net8.0-windows\TalkingPete.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Downloads\TalkingPete_refactored\TalkingPete\obj\Debug\net8.0-windows\TalkingPete.AssemblyInfoInputs.cache
+C:\Users\User\Downloads\TalkingPete_refactored\TalkingPete\obj\Debug\net8.0-windows\TalkingPete.AssemblyInfo.cs
+C:\Users\User\Downloads\TalkingPete_refactored\TalkingPete\obj\Debug\net8.0-windows\TalkingPete.csproj.CoreCompileInputs.cache
+C:\Users\User\Downloads\TalkingPete_refactored\TalkingPete\obj\Debug\net8.0-windows\TalkingPete.dll
+C:\Users\User\Downloads\TalkingPete_refactored\TalkingPete\obj\Debug\net8.0-windows\refint\TalkingPete.dll
+C:\Users\User\Downloads\TalkingPete_refactored\TalkingPete\obj\Debug\net8.0-windows\TalkingPete.pdb
+C:\Users\User\Downloads\TalkingPete_refactored\TalkingPete\obj\Debug\net8.0-windows\TalkingPete.genruntimeconfig.cache
+C:\Users\User\Downloads\TalkingPete_refactored\TalkingPete\obj\Debug\net8.0-windows\ref\TalkingPete.dll
