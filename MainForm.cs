@@ -24,7 +24,7 @@ namespace TalkingPete
         public MainForm()
         {
             Text             = "Talking Pete 🐱";
-            Size             = new Size(900, 660);
+            Size             = new Size(1280, 720);
             WindowState      = FormWindowState.Maximized;
             StartPosition    = FormStartPosition.CenterScreen;
             DoubleBuffered   = true;

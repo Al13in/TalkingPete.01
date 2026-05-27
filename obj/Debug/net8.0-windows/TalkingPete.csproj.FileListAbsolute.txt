@@ -12,3 +12,4 @@ C:\Users\User\Downloads\TalkingPete_refactored\TalkingPete\obj\Debug\net8.0-wind
 C:\Users\User\Downloads\TalkingPete_refactored\TalkingPete\obj\Debug\net8.0-windows\TalkingPete.pdb
 C:\Users\User\Downloads\TalkingPete_refactored\TalkingPete\obj\Debug\net8.0-windows\TalkingPete.genruntimeconfig.cache
 C:\Users\User\Downloads\TalkingPete_refactored\TalkingPete\obj\Debug\net8.0-windows\ref\TalkingPete.dll
+C:\Users\User\Downloads\TalkingPete_refactored\TalkingPete\obj\Debug\net8.0-windows\TalkingPete.sourcelink.json
